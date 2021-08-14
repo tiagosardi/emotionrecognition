@@ -1,0 +1,20 @@
+Contagem de imagens - 35887
+
+treino - 28709
+	- angry: 3995
+	- disgusted: 436
+	- fearful: 4097
+	- happy: 7215
+	- neutral: 4965
+	- sad: 4830
+	- surprised 3171
+
+teste - 7178
+	- angry: 958
+	- disgusted: 111
+	- fearful: 1024
+	- happy: 1774
+	- neutral: 1233
+	- sad: 1247
+	- surprised 831
+
